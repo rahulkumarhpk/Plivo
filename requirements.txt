@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-jose
+requests
+pydantic-settings
+psycopg2
